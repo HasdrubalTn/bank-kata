@@ -2,7 +2,7 @@
 
 Learn and practice the double loop of TDD. Test software modules from the outside, identifying the side effects.
 
-## Problem description - Bank Kata
+## Problem description
 
 Create a simple bank application with the following features:
 
